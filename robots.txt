@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://devoluapp.github.io/qualeucompro-publii/sitemap.xml
+Sitemap: https://qualeucompro.com/sitemap.xml
